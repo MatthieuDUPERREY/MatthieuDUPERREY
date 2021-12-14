@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MatthieuDUPERREY
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Ruby
-- 💞️ I’m looking to collaborate on nothing for now
-- 📫 How to reach me : somewhere
+- 👋 Hi, I’m @MatthieuDUPERREY, Junior Web Developer Full Stack.
+- 💻 I code with Ruby on Rails and HTML, CSS and a bit of JS.
+- 📚 I’m keen to keep going learn about JS and broad my skills.
+- 🚀 I’m looking to join my first company as junior web dev'.
+- 📫 How to reach me : Linkedin "Matthieu DUPERREY".
 
 <!---
 MatthieuDUPERREY/MatthieuDUPERREY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
