@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatthieuDUPERREY, Junior Web Developer Full Stack.
-- 💻 I'm coding with Ruby on Rails and HTML, CSS and a bit of JS.
-- 📚 I’m keen to keep going learn about JS and broad my skills.
-- 🚀 I’m looking to join my first company as junior web dev'.
+- 💻 I'm coding with REACT and Ruby On Rails.
+- 📚 I’m keen to keep going learn about PYTHON and broad my skills.
+- 🚀 I’m looking to join my first company as junior web dev.
 - 📫 How to reach me : Linkedin "Matthieu DUPERREY".
 
 <!---
